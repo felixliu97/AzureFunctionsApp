@@ -2,3 +2,10 @@
 *.exe
 *.cfg
 /.venv
+.python_packages
+__pycache__
+.funcignore
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
